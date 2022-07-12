@@ -40,7 +40,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>Chaves de API</translation>
+        <translation>Chaves API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: Você provavelmente não precisa preencher este campo se o seu login via Autenticação Microsoft já funciona.</translation>
+        <translation>Nota: Você provavelmente não mudar isto se o seu login via Autenticação Microsoft já funciona.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -324,7 +324,7 @@
     <message>
         <source>Online</source>
         <comment>Account status</comment>
-        <translation type="vanished">On-line</translation>
+        <translation type="vanished">Online</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
@@ -336,13 +336,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Ativa</translation>
+        <translation>Funcionando</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Incorreta</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
@@ -366,7 +366,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>N/D</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
@@ -408,7 +408,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome de usuário do Minecraft associado com a conta.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -489,7 +489,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Adicionar conta &amp;offline</translation>
+        <translation>Adicionar conta &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -512,12 +512,12 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Bem-vindo ou bem-vinda!
-Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua conta Mojang ou Minecraft.</translation>
+Se você é novo aqui, você pode clicar no botão &quot;Adicionar&quot; para adicionar sua conta Mojang ou Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Nenhum ID de cliente de autenticação da Microsoft foi estabelecido.</translation>
+        <translation>Nenhum ID de cliente de Autenticação da Microsoft foi estabelecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -528,7 +528,7 @@ Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua c
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Insira o seu e-mail e senha da conta Mojang.</translation>
+        <translation>Por favor coloque seu email e senha da Mojang para adicionar sua conta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
